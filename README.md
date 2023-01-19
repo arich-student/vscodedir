@@ -1,0 +1,2 @@
+# vscodedir
+my vscode repo
